@@ -1,3 +1,5 @@
 1 auto rojo
 1 auto verde
 1 auto amarillo
+1 moto blanca
+1 avion
